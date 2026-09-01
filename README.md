@@ -32,6 +32,8 @@ This repository gives you five free interview-style production drills extracted 
 | Kafka | [Duplicate Event, Duplicate Side Effect](kafka/duplicate-event.md) | Delivery semantics vs business idempotency | 30 min |
 | System Design | [Payment Processing Service](system-design/payment-service-prompts.md) | Durable idempotent workflow design | 60 min |
 
+Explore the Senior Java Production Interview System → https://trivajay.gumroad.com/l/nflnlb
+
 ## How to use each case
 
 Do not read ahead looking for the answer. Treat each file as a mock interview.
