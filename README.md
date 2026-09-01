@@ -7,6 +7,8 @@
 [![Focus](https://img.shields.io/badge/Focus-Production%20Reasoning-success)](#)
 [![Scenarios](https://img.shields.io/badge/Full%20Pack-50%20Scenarios-purple)](full-pack.md)
 
+Explore the Senior Java Production Interview System → https://trivajay.gumroad.com/l/nflnlb
+
 ## Why this repository exists
 
 Most Java interview preparation teaches you to answer questions such as:
